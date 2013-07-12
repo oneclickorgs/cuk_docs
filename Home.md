@@ -3,6 +3,7 @@
 This site contains step-by-step walkthroughs of all the main workflows in the Digital IPS platform. It also contains explanations of the key concepts of the platform, including what it is and isn't capable of.
 
 ## Founding a new co-op
+* Introduction to Founding a new co-op
 * Creating a new draft co-op
 * Inviting additional founder members
 * Being invited to become a founder member
@@ -12,16 +13,19 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * Submitting the co-op for registration
 
 ## Processing co-op registrations (for Co-operatives UK admins)
+* Introduction to Processing co-op registrations
 * Viewing a list of co-ops on the system
 * Dealing with a co-op registration
 
 ## Running a co-op (for Secretary/Directors)
 ### Proceedings of the Board
+* Introduction to Proceedings of the Board
 * Convening a Board Meeting
 * Creating a Board Resolution
 * Minuting a Board Meeting
 
 ### Managing Directors
+* Introduction to Managing Directors
 * Appointing an External Director
 * Appointing a new Director
 * Appointing a new Officer
@@ -31,10 +35,12 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * Viewing list of Directors
 * Viewing list of Officers
 
-### Board Election
+### Board Elections
+* Introduction to Board Elections
 * Closing the election
 
-### Meetings
+### General Meetings
+* Introduction to General Meetings
 * Amending meeting settings
 * Convening a General Meeting
 * Convening an Annual General Meeting
@@ -42,6 +48,7 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * Minuting an Annual General Meeting
 
 ### Managing Members
+* Introduction to Managing Members
 * Amending membership settings
 * Exporting a list of members
 * Processing a new membership application
@@ -51,16 +58,17 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * Viewing member details
 
 ### Shares
+* Introduction to Shares
 * Dealing with members who have failed to attain the minimum shareholding
 * Adjusting shares settings
 * Managing share applications and withdrawals
 * Viewing share ownership
 
 ### Resolutions
+* Introduction to Resolutions
 * Starting an electronic vote for a resolution
 * Creating a resolution for consideration at a future meeting
 * Dealing with member suggestions
-
 
 ## Participating in a co-op (for Members)
 * Voting in a Board election
