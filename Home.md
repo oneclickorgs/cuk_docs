@@ -20,6 +20,7 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * Convening a Board Meeting
 * Creating a Board Resolution
 * Minuting a Board Meeting
+
 ### Managing Directors
 * Appointing an External Director
 * Appointing a new Director
@@ -29,14 +30,17 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * Stepping down an Officer
 * Viewing list of Directors
 * Viewing list of Officers
-### Board Elections
+
+### Board Election
 * Closing the election
+
 ### Meetings
 * Amending meeting settings
 * Convening a General Meeting
 * Convening an Annual General Meeting
 * Minuting a General Meeting
 * Minuting an Annual General Meeting
+
 ### Managing Members
 * Amending membership settings
 * Exporting a list of members
@@ -45,11 +49,13 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * Terminating a membership
 * Viewing a list of members
 * Viewing member details
+
 ### Shares
 * Dealing with members who have failed to attain the minimum shareholding
 * Adjusting shares settings
 * Managing share applications and withdrawals
 * Viewing share ownership
+
 ### Resolutions
 * Starting an electronic vote for a resolution
 * Creating a resolution for consideration at a future meeting
