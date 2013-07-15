@@ -1,6 +1,6 @@
 * When the registration checklist is complete:
 
-[[checklist_complete.png]
+[[checklist_complete.png]]
 
 * you will see some new buttons at the top of the page:
 
