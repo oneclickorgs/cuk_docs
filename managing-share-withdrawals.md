@@ -18,4 +18,4 @@
 
 [[share_withdrawals_confirm_approve.png]]
 
-* Press **Yes, mark as paid, and cancel shares**, and the share withdrawal will be completed.
+* Press **Yes, mark as paid, and cancel shares**, and the share withdrawal will be completed immediately.
