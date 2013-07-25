@@ -9,7 +9,7 @@
 
 * At the bottom of the meeting details, follow **Record minutes for this meeting**:
 
-[[meetings_show_record_minutes_for_this_meeting.png]]
+[[general_meetings_show_record_minutes_for_this_meeting.png]]
 
 * Record who was present at the meeting:
 
@@ -17,24 +17,24 @@
 
 * by entering a name, and selecting the member:
 
-[[general_meeting_edit_participants_select.png]]
+[[general_meetings_edit_participants_select.png]]
 
 * until the list is complete:
 
-[[general_meeting_edit_participants_filled.png]]
+[[general_meetings_edit_participants_filled.png]]
 
 * For each of the resolutions considered in the meeting, you can simply mark the resolution as passed or not passed:
 
-[[general_meeting_edit_resolutions_passed.png]]
+[[general_meetings_edit_resolutions_passed.png]]
 
 * or enter how many people vote for and against the resolution during the meeting, and let the system calculate the result for you:
 
-[[general_meeting_edit_resolutions_votes.png]]
+[[general_meetings_edit_resolutions_votes.png]]
 
 * (this is compulsory if the resolution was also open for voting online, as the online votes and the meeting votes must be consolidated).
 
 * Finally, for each of the remaining agenda items you can enter the corresponding minutes:
 
-[[general_meeting_edit_agenda_items.png]]
+[[general_meetings_edit_agenda_items.png]]
 
 * Press **Save these minutes** to finish.
