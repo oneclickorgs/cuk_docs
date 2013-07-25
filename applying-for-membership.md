@@ -10,3 +10,12 @@
 
 [[members_created.png]]
 
+* Once the Secretary has accepted your membership application, you will receive another email:
+
+[[membership_application_approved_email.png]]
+
+* Follow the link in that email, then check your details and choose a password:
+
+[[invitations_edit.png]]
+
+* You are now a full member of the co-op.
