@@ -1,3 +1,5 @@
+# When a member resigns
+
 * When a Member resigns, the Secretary will receive an email notification:
 
 [[resignation_email.png]]
