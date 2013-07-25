@@ -1,3 +1,5 @@
+# Amending membership settings
+
 * You can add some custom text to the membership application form. New members will see this when they apply for membership.
 * Go to the **Members** section:
 
