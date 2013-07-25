@@ -39,28 +39,27 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 
 ### General Meetings
 * [[Introduction to General Meetings]]
-* [[Amending meeting settings]]
 * [[Convening a General Meeting]]
-* [[Convening an Annual General Meeting]]
 * [[Minuting a General Meeting]]
+* [[Convening an Annual General Meeting]]
 * [[Minuting an Annual General Meeting]]
+* [[Amending meeting settings]]
 
 ### Managing Members
 * [[Introduction to Managing Members]]
-* [[Amending membership settings]]
 * [[Exporting a list of members]]
+* [[Viewing member details]]
 * [[Processing a new membership application]]
 * [[Dealing with a member who has resigned]]
 * [[Terminating a membership]]
-* [[Viewing a list of members]]
-* [[Viewing member details]]
+* [[Amending membership settings]]
 
 ### Shares
 * [[Introduction to Shares]]
+* [[Viewing share ownership]]
+* [[Managing share applications and withdrawals]]
 * [[Dealing with members who have failed to attain the minimum shareholding]]
 * [[Adjusting shares settings]]
-* [[Managing share applications and withdrawals]]
-* [[Viewing share ownership]]
 
 ### Resolutions
 * [[Introduction to Resolutions]]
@@ -69,16 +68,16 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * [[Dealing with member suggestions]]
 
 ## Participating in a co-op (for Members)
-* [[Voting in a Board election]]
-* [[Viewing General Meeting details]]
 * [[Applying for membership]]
-* [[Resigning membership]]
-* [[Forcing a resolution to be considered]]
-* [[Suggesting a resolution]]
+* [[Viewing General Meeting details]]
 * [[Voting electronically on a resolution]]
+* [[Suggesting a resolution]]
+* [[Forcing a resolution to be considered]]
+* [[Voting in a Board election]]
 * [[Viewing the Rules]]
 * [[Applying for additional shares]]
 * [[Withdrawing shares]]
+* [[Resigning membership]]
 
 ## Miscellaneous
 * [[Using the Dashboard]]
