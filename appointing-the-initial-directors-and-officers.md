@@ -18,7 +18,7 @@ To proceed with registration, you must appoint three people to become the initia
 
 * And confirm their appointment as Secretary:
 
-[[officerships_new.png]]
+[[officerships_new_draft.png]]
 
 * Once you have three Directors and a Secretary, you will see the corresponding tasks in your checklist completed:
 
