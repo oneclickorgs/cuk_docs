@@ -32,8 +32,6 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * [[Exporting a list of Directors]]
 * [[Retiring a Director]]
 * [[Stepping down an Officer]]
-* [[Viewing list of Directors]]
-* [[Viewing list of Officers]]
 
 ### Board Elections
 * [[Introduction to Board Elections]]
