@@ -1,3 +1,5 @@
+# Terminating a membership
+
 * Go to the **Members** section:
 
 [[menu_director_members.png]]
@@ -10,3 +12,10 @@
 
 [[members_show_terminate_membership]]
 
+* You will be asked to confirm the termination of this membership:
+
+[[members_confirm_eject.png]]
+
+* When you press **Terminate membership**, the member will immediately be removed from the register of Members, and you will see a confirmation message:
+
+[[membership_terminated_flash.png]]
