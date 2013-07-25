@@ -21,8 +21,8 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 ### Proceedings of the Board
 * [[Introduction to Proceedings of the Board]]
 * [[Convening a Board Meeting]]
-* [[Creating a Board Resolution]]
 * [[Minuting a Board Meeting]]
+* [[Creating a Board Resolution]]
 
 ### Managing Directors
 * [[Introduction to Managing Directors]]
