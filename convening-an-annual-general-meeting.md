@@ -28,8 +28,4 @@
 
 [[general_meetings_new_submit.png]]
 
-* You will see the new meeting appear in the **Upcoming meetings** section:
-
-[[meetings_index_upcoming_annual_general_meeting.png]]
-
-* and all Members will receive an email notifying them of the new meeting.
+* You will see the new meeting appear in the **Upcoming meetings** section, and all Members will receive an email notifying them of the new meeting.
