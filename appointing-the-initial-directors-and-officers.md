@@ -6,7 +6,7 @@ To proceed with registration, you must appoint three people to become the initia
 
 * Press **Appoint new Director**:
 
-[[directorships_new.png]]
+[[directorships_new_draft.png]]
 
 * Choose one of your existing Founder Members to become a Director, and press **Record this appointment**
 
