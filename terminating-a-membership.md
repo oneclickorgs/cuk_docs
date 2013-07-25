@@ -10,7 +10,7 @@
 
 * At the bottom of the page, click **Terminate membership**:
 
-[[members_show_terminate_membership]]
+[[members_show_terminate_membership.png]]
 
 * You will be asked to confirm the termination of this membership:
 
