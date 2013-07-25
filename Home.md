@@ -50,7 +50,7 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * [[Exporting a list of members]]
 * [[Viewing member details]]
 * [[Processing a new membership application]]
-* [[Dealing with a member who has resigned]]
+* [[When a member resigns]]
 * [[Terminating a membership]]
 * [[Amending membership settings]]
 
