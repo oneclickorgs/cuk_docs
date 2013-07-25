@@ -26,11 +26,11 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 
 ### Managing Directors
 * [[Introduction to Managing Directors]]
-* [[Appointing an External Director]]
-* [[Appointing a new Director]]
-* [[Appointing a new Officer]]
 * [[Exporting a list of Directors]]
+* [[Appointing a new Director]]
+* [[Appointing an External Director]]
 * [[Retiring a Director]]
+* [[Appointing a new Officer]]
 * [[Stepping down an Officer]]
 
 ### Board Elections
