@@ -1,7 +1,7 @@
 * Only Directors can create a Board Resolution.
 * Go to the **Board** section:
 
-[[menu_directors_board.png]]
+[[menu_director_board.png]]
 
 * and press **Create a new Board Resolution**:
 
