@@ -66,7 +66,6 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * [[Viewing General Meeting details]]
 * [[Voting electronically on a resolution]]
 * [[Suggesting a resolution]]
-* [[Forcing a resolution to be considered]]
 * [[Viewing the Rules]]
 * [[Applying for additional shares]]
 * [[Withdrawing shares]]
