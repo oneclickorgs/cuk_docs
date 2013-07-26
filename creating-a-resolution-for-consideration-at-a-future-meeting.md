@@ -17,3 +17,7 @@
 * To save the resolution as a draft (to be added later to a future meeting agenda), press **Save this proposal as a draft**:
 
 [[resolutions_new_submit.png]]
+
+* Later, when you are convening a General Meeting, you will see the draft resolution available for adding to the agenda:
+
+[[general_meetings_new_resolutions.png]]
