@@ -72,6 +72,3 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * [[Applying for additional shares]]
 * [[Withdrawing shares]]
 * [[Resigning membership]]
-
-## Miscellaneous
-* [[Using the Dashboard]]
