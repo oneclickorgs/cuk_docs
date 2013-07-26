@@ -35,10 +35,8 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 
 ### Board Elections
 * [[Introduction to Board Elections]]
-* [[Closing the election]]
 
 ### General Meetings
-* [[Introduction to General Meetings]]
 * [[Convening a General Meeting]]
 * [[Minuting a General Meeting]]
 * [[Convening an Annual General Meeting]]
@@ -46,7 +44,6 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * [[Amending meeting settings]]
 
 ### Managing Members
-* [[Introduction to Managing Members]]
 * [[Exporting a list of members]]
 * [[Viewing member details]]
 * [[Processing a new membership application]]
