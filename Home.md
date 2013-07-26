@@ -52,12 +52,9 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * [[Amending membership settings]]
 
 ### Shares
-* [[Introduction to Shares]]
 * [[Viewing share ownership]]
 * [[Managing share applications]]
 * [[Managing share withdrawals]]
-* [[Dealing with members who have failed to attain the minimum shareholding]]
-* [[Adjusting shares settings]]
 
 ### Resolutions
 * [[Introduction to Resolutions]]
