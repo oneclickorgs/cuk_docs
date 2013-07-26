@@ -57,7 +57,6 @@ This site contains step-by-step walkthroughs of all the main workflows in the Di
 * [[Managing share withdrawals]]
 
 ### Resolutions
-* [[Introduction to Resolutions]]
 * [[Starting an electronic vote for a resolution]]
 * [[Creating a resolution for consideration at a future meeting]]
 * [[Dealing with member suggestions]]
